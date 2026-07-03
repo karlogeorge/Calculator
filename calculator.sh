@@ -6,7 +6,7 @@ echo "Enter first number:"
 read num1
 
 echo "Enter second number:"
-read num6
+read num10
 
 echo "Choose operation: +  -  *  /"
 read op
@@ -36,3 +36,4 @@ case $op in
     echo "Invalid operation"
     ;;
 esac
+TEST
